@@ -6,7 +6,7 @@ The tatweels are spread over every gap where the two letters join (not after ا 
 
 The snake glides smoothly between cells, and its jaws open when food is just ahead. Losing plays a taunt: a voice line (يا غشيم، يا سعد…) followed by a cartoon laugh.
 
-Play: https://aimohz88.github.io/saad-snake/
+Play: https://aimohz.github.io/saad-snake/
 
 Everything is in `index.html`; the taunt clips are in `sounds/`. The laughs (`laugh-*.mp3`) are from [Mixkit](https://mixkit.co/free-sound-effects/laugh/) under the Mixkit free sound-effects licence; the voice lines were made with the Windows Arabic (Saudi) voice.
 
